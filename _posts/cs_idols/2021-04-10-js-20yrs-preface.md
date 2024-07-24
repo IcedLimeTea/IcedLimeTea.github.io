@@ -1,9 +1,10 @@
 ---
-layout:       post
 title:        "《JavaScript 二十年》推荐语"
+layout:       post
 author:       "Hux"
 header-style: text
 catalog:      true
+published: false
 tags:
     - Web
     - JavaScript
