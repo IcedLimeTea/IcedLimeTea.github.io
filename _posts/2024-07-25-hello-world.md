@@ -12,5 +12,3 @@ tags:
 ## 征婚启事
 
 ![img](/img/in-post/post-hello-world/post-hello-world.001.jpg)
-
-![img](/img/in-post/post-alitrip-pd/post-alitrip-pd.013.jpg)
