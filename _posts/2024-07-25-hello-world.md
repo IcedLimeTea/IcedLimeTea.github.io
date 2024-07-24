@@ -10,4 +10,6 @@ tags:
 ---
 
 ## 征婚启事
-![alt text](../img/post-hello-world.png)
+![img](/img/in-post/post-hello-world/post-hello-world.png)
+
+![img](/img/in-post/post-alitrip-pd/post-alitrip-pd.013.jpg)
